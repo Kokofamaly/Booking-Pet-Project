@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "Fr4yjXvbH47SNOSmv6x34Wht87hv1A/QBsivPOlN6Vc=",
+  "Source": "Booking Pet Project",
+  "BasePath": "_content/Booking Pet Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Booking Pet Project/wwwroot",
+      "Source": "Booking Pet Project",
+      "ContentRoot": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/",
+      "BasePath": "_content/Booking Pet Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/hrixr6f7q5-5ipweew5fc.gz",
+      "SourceId": "Booking Pet Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Booking Pet Project",
+      "RelativePath": "index#[.{fingerprint=5ipweew5fc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/zrxwgy0vmq-bbphcycb9l.gz",
+      "SourceId": "Booking Pet Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Booking Pet Project",
+      "RelativePath": "login#[.{fingerprint=bbphcycb9l}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/login.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ampnk0iu6z",
+      "Integrity": "chUOxVAskI40gqRWPtI/MQepUV5P30OXFYVnIG1Nzr8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/login.html"
+    },
+    {
+      "Identity": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/index.html",
+      "SourceId": "Booking Pet Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/",
+      "BasePath": "_content/Booking Pet Project",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/login.html",
+      "SourceId": "Booking Pet Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/",
+      "BasePath": "_content/Booking Pet Project",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bbphcycb9l",
+      "Integrity": "mZF3rkZwxIzkJZS0P0w6uKh/Tx9JpHnQtjFHWbGIZmE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/login.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.5ipweew5fc.html",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/hrixr6f7q5-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Nov 2025 13:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "index.5ipweew5fc.html",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Nov 2025 13:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "index.5ipweew5fc.html.gz",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/hrixr6f7q5-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Nov 2025 13:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/hrixr6f7q5-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Nov 2025 13:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Nov 2025 13:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/hrixr6f7q5-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Nov 2025 13:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "login.bbphcycb9l.html",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/zrxwgy0vmq-bbphcycb9l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000964320154"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1036"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"chUOxVAskI40gqRWPtI/MQepUV5P30OXFYVnIG1Nzr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Nov 2025 11:02:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mZF3rkZwxIzkJZS0P0w6uKh/Tx9JpHnQtjFHWbGIZmE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bbphcycb9l"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mZF3rkZwxIzkJZS0P0w6uKh/Tx9JpHnQtjFHWbGIZmE="
+        }
+      ]
+    },
+    {
+      "Route": "login.bbphcycb9l.html",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2811"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mZF3rkZwxIzkJZS0P0w6uKh/Tx9JpHnQtjFHWbGIZmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Nov 2025 11:02:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bbphcycb9l"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mZF3rkZwxIzkJZS0P0w6uKh/Tx9JpHnQtjFHWbGIZmE="
+        }
+      ]
+    },
+    {
+      "Route": "login.bbphcycb9l.html.gz",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/zrxwgy0vmq-bbphcycb9l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"chUOxVAskI40gqRWPtI/MQepUV5P30OXFYVnIG1Nzr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Nov 2025 11:02:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bbphcycb9l"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-chUOxVAskI40gqRWPtI/MQepUV5P30OXFYVnIG1Nzr8="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/zrxwgy0vmq-bbphcycb9l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000964320154"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1036"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"chUOxVAskI40gqRWPtI/MQepUV5P30OXFYVnIG1Nzr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Nov 2025 11:02:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mZF3rkZwxIzkJZS0P0w6uKh/Tx9JpHnQtjFHWbGIZmE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mZF3rkZwxIzkJZS0P0w6uKh/Tx9JpHnQtjFHWbGIZmE="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2811"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mZF3rkZwxIzkJZS0P0w6uKh/Tx9JpHnQtjFHWbGIZmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Nov 2025 11:02:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mZF3rkZwxIzkJZS0P0w6uKh/Tx9JpHnQtjFHWbGIZmE="
+        }
+      ]
+    },
+    {
+      "Route": "login.html.gz",
+      "AssetFile": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/Debug/net9.0/compressed/zrxwgy0vmq-bbphcycb9l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"chUOxVAskI40gqRWPtI/MQepUV5P30OXFYVnIG1Nzr8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Nov 2025 11:02:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-chUOxVAskI40gqRWPtI/MQepUV5P30OXFYVnIG1Nzr8="
+        }
+      ]
+    }
+  ]
+}

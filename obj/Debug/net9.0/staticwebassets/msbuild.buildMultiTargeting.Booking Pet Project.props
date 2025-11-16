@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Booking Pet Project.props" />
+</Project>

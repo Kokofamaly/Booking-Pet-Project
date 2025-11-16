@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/wwwroot/login.html",
+      "PackagePath": "staticwebassets/login.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Booking Pet Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Booking Pet Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Booking Pet Project.props",
+      "PackagePath": "build\\Booking Pet Project.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Booking Pet Project.props",
+      "PackagePath": "buildMultiTargeting\\Booking Pet Project.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Booking Pet Project.props",
+      "PackagePath": "buildTransitive\\Booking Pet Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
