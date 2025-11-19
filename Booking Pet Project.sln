@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booking Pet Project", "Booking Pet Project.csproj", "{8445C683-7F6E-4A3B-4342-9CC39B879D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8445C683-7F6E-4A3B-4342-9CC39B879D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8445C683-7F6E-4A3B-4342-9CC39B879D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8445C683-7F6E-4A3B-4342-9CC39B879D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8445C683-7F6E-4A3B-4342-9CC39B879D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A83662EB-1102-4296-90FC-9C02959C3C1F}
+	EndGlobalSection
+EndGlobal
