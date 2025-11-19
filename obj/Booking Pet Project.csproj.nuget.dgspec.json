@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/Booking Pet Project.csproj": {}
+    "/Users/kokofamaly/code/CSharp сode/Booking-Pet-Project/Booking Pet Project.csproj": {}
   },
   "projects": {
-    "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/Booking Pet Project.csproj": {
+    "/Users/kokofamaly/code/CSharp сode/Booking-Pet-Project/Booking Pet Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/Booking Pet Project.csproj",
+        "projectUniqueName": "/Users/kokofamaly/code/CSharp сode/Booking-Pet-Project/Booking Pet Project.csproj",
         "projectName": "Booking Pet Project",
-        "projectPath": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/Booking Pet Project.csproj",
+        "projectPath": "/Users/kokofamaly/code/CSharp сode/Booking-Pet-Project/Booking Pet Project.csproj",
         "packagesPath": "/Users/kokofamaly/.nuget/packages/",
-        "outputPath": "/Users/kokofamaly/code/CSharp сode/Booking Pet Project/obj/",
+        "outputPath": "/Users/kokofamaly/code/CSharp сode/Booking-Pet-Project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kokofamaly/.nuget/NuGet/NuGet.Config"
